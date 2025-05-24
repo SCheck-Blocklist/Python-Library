@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "scheckbl"
-version = "1.0.0"          
+version = "1.1.0"          
 description = "Lightweight Python library for detecting, searching, and analyzing forbidden words and phrases in text data."
 readme = "README.md"
 authors = [

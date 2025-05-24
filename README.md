@@ -1,7 +1,7 @@
 # SCheck Blocklist
 
 **Python package enabling seamless integration with the SCheck Blocklist datasets**
-> Actually Version: `1.0.0`
+> Actually Version: `1.1.0`
 > 
 > Our Websites: [scheck-blocklist.vercel.app](https://scheck-blocklist.vercel.app)
 
