@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython build artifacts
+*.c
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+.env/
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test & coverage
+.coverage
+.tox/
+nosetests.xml
+.testmondata
+.cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+hypothesis/
+
+# Mypy
+.mypy_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# dotenv
+.env
+.env.*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Wheel packages
+*.whl
